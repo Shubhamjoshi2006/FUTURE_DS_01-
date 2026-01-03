@@ -1,4 +1,4 @@
-Data Science & Analytics Task 1 By Future Interns 📊 Business Sales Dashboard from E-commerce Data Shubham Joshi
+Data Science & Analytics Task 1 By Future Interns 📊 Business Sales Dashboard from E-commerce Data  SHUBHAM JOSHI 
 
 🔍 About the Task In this real-world internship task, you’ll work with e-commerce sales data to build a professional, interactive dashboard. The goal is to help business owners and decision-makers understand:
 
